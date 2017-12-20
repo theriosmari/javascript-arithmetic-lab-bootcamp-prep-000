@@ -23,6 +23,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  Integer int = Integer.parseInt(n)
+  Integer intValue = Integer.parseInt(n)
   return int
 }
